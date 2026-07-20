@@ -25,16 +25,7 @@ Perform the iterative function of $z=z^2+c$ for n iterations, in the first four 
 Use the imshow function to show where the convergence occurred after each and every iteration, thus visualizing the Julia Set.
 
 
-#APPLICATION
-Here are simpler versions:
-
-* **Julia sets show how simple mathematical rules can create complex and beautiful patterns.**
-* **Julia sets show how a simple equation can create endless patterns with amazing detail.**
-* **Julia sets demonstrate how small changes in a simple formula can create very different and interesting designs.**
-* **Julia sets show how simple calculations repeated many times can produce complex shapes and patterns.**
-
-For a general audience, I would use:
-
+# APPLICATION
 Julia sets show how a simple equation repeated many times can create complex and beautiful patterns.
 Julia sets are widely used to generate intricate fractal images and animations. Because they exhibit infinite detail and self-similarity, they are popular in:
 
@@ -45,5 +36,5 @@ IV. Visual effects in movies
 
 Julia sets show that simple iterative equations can create infinitely complex patterns. They are important in fractal geometry, chaos theory, computer graphics, and education, illustrating how mathematics can produce both practical insights and striking visual beauty.
 
-#CONCLUSION 
+# CONCLUSION 
 Julia sets demonstrate how simple mathematical rules can generate remarkably complex and beautiful structures. They bridge mathematics, computer science, and art by illustrating concepts such as recursion, self-similarity, and chaos. Beyond their aesthetic appeal, Julia sets provide valuable insights into nonlinear systems, complex dynamics, and fractal geometry, making them important both as research tools and as engaging visualizations for learning mathematics.
