@@ -11,7 +11,7 @@ Use the meshgrid function to help with the visualization. The meshgrid is used a
 
 And then declare variable z as z to be equal to $x+yi$, where x is the real part and y, the imaginary part, obtained from the meshgrid.
 
-Declare the golden ratio as gld and equate it to the golden ratio value, thus $1+ 5/2$
+Declare the golden ratio as gld and equate it to the golden ratio value, thus $\frac{1+\sqrt{5}}{2}$
 ​
  
 Declare  variable c as c being equal to 1− gld for the first case, and different values for the other cases.
