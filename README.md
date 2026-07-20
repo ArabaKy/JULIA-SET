@@ -6,15 +6,15 @@ is applied iteratively to a set of points in the complex plane. The $'c'$ in thi
 # Procedure
 Use %pylab inline to import numpy and matplotlib for use
 
-and then create our complex region using linspace.
+and then create a complex region using linspace.
 Use the meshgrid function to help with the visualization. The meshgrid is used as a canvas on which the visualization is done.
 
-And then declare variable z as z to be equal to $x+yi$, where x is the real part and y, the imaginary part, obtained from the meshgrid.
+And then declare variable $z$ as z to be equal to $x+yi$, where x is the real part and y, the imaginary part, obtained from the meshgrid.
 
 Declare the golden ratio as gld and equate it to the golden ratio value, thus $\frac{1+\sqrt{5}}{2}$
 ​
  
-Declare  variable c as c being equal to 1− gld for the first case, and different values for the other cases.
+Declare  variable $c$ as c being equal to $1− gld$ for the first case, and different values for the other cases.
 
 Create a variable n to define the number of iterations to take.
 
@@ -24,3 +24,26 @@ Perform the iterative function of $z=z^2+c$ for n iterations, in the first four 
 
 Use the imshow function to show where the convergence occurred after each and every iteration, thus visualizing the Julia Set.
 
+
+#APPLICATION
+Here are simpler versions:
+
+* **Julia sets show how simple mathematical rules can create complex and beautiful patterns.**
+* **Julia sets show how a simple equation can create endless patterns with amazing detail.**
+* **Julia sets demonstrate how small changes in a simple formula can create very different and interesting designs.**
+* **Julia sets show how simple calculations repeated many times can produce complex shapes and patterns.**
+
+For a general audience, I would use:
+
+Julia sets show how a simple equation repeated many times can create complex and beautiful patterns.
+Julia sets are widely used to generate intricate fractal images and animations. Because they exhibit infinite detail and self-similarity, they are popular in:
+
+I. Digital art
+II. Computer-generated imagery (CGI)
+III. Video game backgrounds
+IV. Visual effects in movies
+
+Julia sets show that simple iterative equations can create infinitely complex patterns. They are important in fractal geometry, chaos theory, computer graphics, and education, illustrating how mathematics can produce both practical insights and striking visual beauty.
+
+#CONCLUSION 
+Julia sets demonstrate how simple mathematical rules can generate remarkably complex and beautiful structures. They bridge mathematics, computer science, and art by illustrating concepts such as recursion, self-similarity, and chaos. Beyond their aesthetic appeal, Julia sets provide valuable insights into nonlinear systems, complex dynamics, and fractal geometry, making them important both as research tools and as engaging visualizations for learning mathematics.
